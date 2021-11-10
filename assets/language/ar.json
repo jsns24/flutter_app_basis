@@ -1,0 +1,29 @@
+{
+  "language": "عربي",
+
+  "guis" : {
+    "home": {
+      "title": "أهلا بك",
+      "purpose": "هذه قاعدة لتطبيق Flutter مع دعم تصميم الألوان واللغة المترجمة",
+      "message": "أتمنى أن تستمتع بها",
+      "navigation": {
+        "colortheme": "موضوع اللون",
+        "language": "لغة"
+      }
+    },
+
+    "settings": {
+      "colortheme": {
+        "title": "موضوع اللون",
+        "system": "النظام",
+        "dark": "داكن",
+        "light": "ضوء"
+      },
+      "language": {
+        "title": "لغة",
+        "system": "جهاز"
+      }
+    }
+  }
+
+}

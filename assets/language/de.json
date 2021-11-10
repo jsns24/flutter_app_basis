@@ -1,0 +1,29 @@
+{
+  "language": "Deutsch",
+
+  "guis" : {
+    "home": {
+      "title": "Willkommen",
+      "purpose": "Dies ist eine Basis für ihre Flutter App mit lokalisierter Sprache - und Farbdesignunterstützung",
+      "message": "Ich wünsche Ihnen viel Spaß mit ihr",
+      "navigation": {
+        "colortheme": "Farbdesign",
+        "language": "Sprache"
+      }
+    },
+
+    "settings": {
+      "colortheme": {
+        "title": "Farbdesign",
+        "system": "System",
+        "dark": "Dunkel",
+        "light": "Hell"
+      },
+      "language": {
+        "title": "Sprache",
+        "system": "Gerät"
+      }
+    }
+  }
+
+}

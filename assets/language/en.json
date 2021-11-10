@@ -1,0 +1,29 @@
+{
+  "language": "english",
+
+  "guis" : {
+    "home": {
+      "title": "welcome",
+      "purpose": "this is a basis for your flutter app with localized language and color theme support",
+      "message": "I hope you enjoy using it",
+      "navigation": {
+        "colortheme": "color theme",
+        "language": "language"
+      }
+    },
+
+    "settings": {
+      "colortheme": {
+        "title": "color theme",
+        "system": "system",
+        "dark": "dark",
+        "light": "light"
+      },
+      "language": {
+        "title": "language",
+        "system": "device"
+      }
+    }
+  }
+
+}
